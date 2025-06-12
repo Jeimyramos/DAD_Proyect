@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:${SERVERS_PORT:80805}}
+  port: ${PORT:${SERVERS_PORT:0}}
 
 logging:
   level:
