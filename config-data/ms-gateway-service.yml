@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:${SERVERS_PORT:55340}}
+  port: ${PORT:${SERVERS_PORT:8080}}
 
 logging:
   level:
